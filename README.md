@@ -51,3 +51,4 @@ Tanto en la primera como en la segunda parte del ejercico 2 realizo el método m
 
 Por último, uso la función `countRight()` para obtener el número de contraseñas correctas que hay con la primera y la segunda política de contraseñas.
 
+Ambos ejercicios estan preparados para imprimir los resultados tanto en el navegador como con node desde la terminal.
