@@ -1,5 +1,5 @@
 
-# Prueba técnica Cyberclick 
+# Prueba técnica 
 
 ## **Ejercicio 1 - archivo index1.js**
 
